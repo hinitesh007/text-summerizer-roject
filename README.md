@@ -1,1 +1,1 @@
-# text-summerizer-roject
+# text-summerizer-project
